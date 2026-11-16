@@ -1,4 +1,3 @@
-
 # My First Open-Source Contribution Simulation
 
 This repository is created to practice the GitHub contribution workflow.
